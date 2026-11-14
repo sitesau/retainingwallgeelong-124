@@ -1,0 +1,22 @@
+{
+  "wheel_id": 896,
+  "structure": "umbrella",
+  "slug": "retainingwallgeelong-124",
+  "project": "retaining-wall-builders-geelong-checklist-13ad61e3347ccac4c0151",
+  "parent_t1_ref": "retainingwallgeelong-161",
+  "node_role": "feeder",
+  "money_target": "retainingwallgeelong.com.au",
+  "primary_kw": "retaining wall builders geelong checklist",
+  "intended_url": "https://sites-e470-2.web.app/retaining-wall-builders-geelong-checklist-13ad61e3347ccac4c0151/",
+  "tier": "T2",
+  "writeback_nonce": "7765c16312b678de",
+  "links": [
+    {
+      "target_url": "http://retaining-wall-builders-geelong-timeline-e08dd124e56b18bd97fb4b.s3-website-ap-southeast-2.amazonaws.com/index.html",
+      "anchor": "the full guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
